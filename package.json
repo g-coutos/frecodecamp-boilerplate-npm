@@ -1,8 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
+	"author": "Guilherme Couto",
+  "description": "A project to understand packages with npm",
+  "keywords": ["freecodecamp", "is", "awesome"], 
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.14.0",
+    "@freecodecamp/example": "~1.2.13"
+  },
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"

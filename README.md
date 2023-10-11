@@ -1,2 +1,1 @@
-# Backend Challenges boilerplate - package.json
-[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)
+Exercises of the first module from the course [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis).
